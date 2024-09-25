@@ -25,10 +25,8 @@ Monument Valley uses this geometric imaging technology to create visual illusion
 
 ##### 3D Spatial Geometry Exploration Inspired by *Monument Valley*
 
-## Overview
-This project draws inspiration from the 3D spatial geometry found in the game *Monument Valley*. The game utilizes optical illusions within geometric structures, allowing players to interact with seemingly two-dimensional designs that reveal complex three-dimensional forms.
 
-## Coding Technique
+#### Coding Technique
 
 Track control adjusts camera orientation in 3D sketches using mouse or touch input. The js 3D orbitControl() function facilitates interactive manipulation of the 3D environment. By allowing users to rotate and zoom in on objects, this technique enhances the hallucinatory effects and spatial transformations seen in Monument Valley. 
 
