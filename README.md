@@ -19,3 +19,27 @@ Monument Valley uses this geometric imaging technology to create visual illusion
 
 
 ![Fantasy Landscape](https://cdna.artstation.com/p/assets/images/images/023/337/902/large/saim-mulla-final.jpg?1578893051)
+
+
+## Coding Technique Exploration
+
+##### 3D Spatial Geometry Exploration Inspired by *Monument Valley*
+
+## Overview
+This project draws inspiration from the 3D spatial geometry found in the game *Monument Valley*. The game utilizes optical illusions within geometric structures, allowing players to interact with seemingly two-dimensional designs that reveal complex three-dimensional forms.
+
+## Coding Technique
+The **`p5.js` 3D `orbitControl()`** function facilitates interactive manipulation of 3D environments. By enabling users to rotate and zoom into objects, this technique enhances the illusionary effects and spatial transformations seen in *Monument Valley*. Implementing `orbitControl()` allows for a dynamic exploration of geometric shapes, creating an engaging experience that defies traditional geometric rules.
+
+## Example Implementation
+Track control adjusts camera orientation in 3D sketches using mouse or touch input. The js 3D orbitControl() function facilitates interactive manipulation of the 3D environment. By allowing users to rotate and zoom in on objects, this technique enhances the hallucinatory effects and spatial transformations seen in Monument Valley. Implementing orbitControl() allows for dynamic exploration of geometric shapes, creating an engaging experience that transcends traditional geometric rules.
+This coding technique effectively brings the illusion and immersive quality of 3D geometry to life, reflecting the captivating visual experience of * Monument Valley *.
+
+- **Link to example**: [p5.js 3D Orbit Control](https://p5js.org/examples/3d-orbit-control/)
+
+## Visual Reference
+
+![Picture effects in different directions](readmeImages/image3.png)
+
+![Picture effects in different directions](readmeImages/image4.png)
+
