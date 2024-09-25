@@ -1,1 +1,10 @@
-# yixu0759_9103_tut4
+# Quiz 8
+- Imaging Technique Inspiration
+
+I was inspired by the 3D spatial geometry in the game Monument Valley. The game is based on the geometry of optical illusions, which allows players to rotate and move different building structures that appear to be two-dimensional, but through interaction actually reveal complex three-dimensional geometry.
+
+Monument Valley uses this geometric imaging technology to create visual illusions and spatial distortions that create a unique gaming experience. The architectural design in the game breaks the traditional geometric rules by means of perspective switching and spatial reconstruction, so I want to apply 3D spatial geometric imaging technology to my project.
+  
+
+- Coding Technique Exploration
+
